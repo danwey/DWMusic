@@ -1,0 +1,6 @@
+framework module Pods_DWMusic {
+  umbrella header "Pods-DWMusic-umbrella.h"
+
+  export *
+  module * { export * }
+}
